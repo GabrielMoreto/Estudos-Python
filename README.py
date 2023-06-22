@@ -1,5 +1,0 @@
-# Código de teste
-
-´´´
-print("")
-´´´
